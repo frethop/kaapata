@@ -8,7 +8,7 @@ I have released Kaapata, an Android widget that does mobile capture for Obsidian
 
 The user interface can be seen below.  The top 3 icons have a fixed, standard function (open a new note, open the daily note, take a picture).  The bottom area can accomodate up  to 6 configurable optional actions, represented by icons and labels.
 
-![Figure 1.](https://publish-01.obsidian.md/access/f4277fdde9039c6b96092f758b1362b3/kabestin%20software/Obsidian%20Widget/Documentation/fig1.png | width=200)
+<img src="https://publish-01.obsidian.md/access/f4277fdde9039c6b96092f758b1362b3/kabestin%20software/Obsidian%20Widget/Documentation/fig1.png" width=200>
 
 One can think of many use cases using the above 4 action areas.  Some might involve voice-to-text; this has not been implemented (yet) because good voice-to-text exists with apps and keyboards (Google's gboard is an example).  Some use cases might also use Google Assistant; this functionality is planned, but perhaps not for version 1.0.  
 
